@@ -34,11 +34,11 @@
     <!--Third part plugins -->
 	
 	<!--Para accesar a paginas en internet-->
-	<allow-intent href=https://*/*"/>
+	<allow-intent href="https://*/*"/>
 	<acces origin="https://*/*"/>
 	<allow-intent href="http://*/*"/>
 	<acces origin="http://*/*"/>
-	<plugin naame="cordova-plugin-whitelist" source="npm"/>
+	<plugin name="cordova-plugin-whitelist" source="npm"/>
     
 	<!-- Colocar icono app-->
 	
